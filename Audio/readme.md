@@ -7,19 +7,20 @@ Then people will understand my motivations a lot more clearly.<br>
 
 | Last Update       |
 |:------------------|
-| **08/13/23 1608** |
+| **08/15/23 1948** |
 
 | Date         | Length     | File                           | Name                                                                                                   |
 |:-------------|:-----------|:-------------------------------|:-------------------------------------------------------------------------------------------------------|
-| **08/13/23** | 1h 15m 27s | **2023_08_13_12_07_05.mp3** | [Consideration](https://drive.google.com/file/d/1G9LgcWLYDlwUdQsiD4GnKfb2fuWqIPyA) |
-| **08/12/23** | 1h 14m 29s | **2023_08_12_12_17_42.mp3** |[Performance Matters](https://drive.google.com/file/d/1G4NSEG_mwWXlr8cGmZvA2hpM4q_7KpKt) |
-| **08/05/23** | 0h 58m 56s | **2023_08_05_q4_26_16.mp3** | [Order](https://drive.google.com/file/d/1E1-kVJXtI8i2YYoZLIwdvDrCIDcXdMTe)
-| **08/03/23** | 0h 26m 49s | **2023_08_03_20_58_54.mp3** | [Turning Point](https://drive.google.com/file/d/1DZSmeua_8GnXbYUWkARXlWrB-AGc-OS9)
-| **08/02/23** | 0h 21m 45s | **2023_08_02_18_25_37.mp3** | [Michael B.T.D.T. Pompeo](https://drive.google.com/file/d/1DGLxFHaMmzn6_LSzxDhb7TE4TQPadpGe)
-| **08/02/23** | 0h 50m 32s | **2023_08_02_12_31_08.mp3** | [Waste](https://drive.google.com/file/d/1D92svxYq0bfKFEeM4qsI6gO-JaOHwIwJ)
-| **08/01/23** | 0h 32m 38s | **2023_08_01_15_55_06.mp3** | [PowerShell Subreddit](https://drive.google.com/file/d/1CbcyMV1pkmkD9tlDeVet0R0VLSaDkaJw)
-| **08/01/23** | 0h 56m 23s | **2023_08_01_12_41_44.mp3** | [Worthiness](https://drive.google.com/file/d/1BserLDGQvsYSYea3CkE_gtnz25RVVt4h)
-| **07/28/23** | 1h 02m 01s | **2023_07_28_10_36_28.mp3** | [Discrimination](https://drive.google.com/file/d/19UW1DOmXX8dn2MI5gCQNmilJo_G1zvAK)
+| **08/15/23** | 1h 17m 30s | **2023_08_15_14_06_15.mp3**    | [Delta Zulu Echo Five Niner](https://drive.google.com/file/d/1vB3Eic1QZK1rxuM1Ukm9VA3Zf_-lCTSt)
+| **08/13/23** | 1h 15m 27s | **2023_08_13_12_07_05.mp3**    | [Consideration](https://drive.google.com/file/d/1G9LgcWLYDlwUdQsiD4GnKfb2fuWqIPyA)
+| **08/12/23** | 1h 14m 29s | **2023_08_12_12_17_42.mp3**    | [Performance Matters](https://drive.google.com/file/d/1G4NSEG_mwWXlr8cGmZvA2hpM4q_7KpKt)
+| **08/05/23** | 0h 58m 56s | **2023_08_05_q4_26_16.mp3**    | [Order](https://drive.google.com/file/d/1E1-kVJXtI8i2YYoZLIwdvDrCIDcXdMTe)
+| **08/03/23** | 0h 26m 49s | **2023_08_03_20_58_54.mp3**    | [Turning Point](https://drive.google.com/file/d/1DZSmeua_8GnXbYUWkARXlWrB-AGc-OS9)
+| **08/02/23** | 0h 21m 45s | **2023_08_02_18_25_37.mp3**    | [Michael B.T.D.T. Pompeo](https://drive.google.com/file/d/1DGLxFHaMmzn6_LSzxDhb7TE4TQPadpGe)
+| **08/02/23** | 0h 50m 32s | **2023_08_02_12_31_08.mp3**    | [Waste](https://drive.google.com/file/d/1D92svxYq0bfKFEeM4qsI6gO-JaOHwIwJ)
+| **08/01/23** | 0h 32m 38s | **2023_08_01_15_55_06.mp3**    | [PowerShell Subreddit](https://drive.google.com/file/d/1CbcyMV1pkmkD9tlDeVet0R0VLSaDkaJw)
+| **08/01/23** | 0h 56m 23s | **2023_08_01_12_41_44.mp3**    | [Worthiness](https://drive.google.com/file/d/1BserLDGQvsYSYea3CkE_gtnz25RVVt4h)
+| **07/28/23** | 1h 02m 01s | **2023_07_28_10_36_28.mp3**    | [Discrimination](https://drive.google.com/file/d/19UW1DOmXX8dn2MI5gCQNmilJo_G1zvAK)
 | **07/23/23** | 0h 54m 02s | **2023_07_23_20_29_32.mp3**    | [Control](https://drive.google.com/file/d/1MIMow_pFRCnxasfyhMtbcHC8Tg9_AxTu)
 | **07/21/23** | 0h 43m 54s | **2023_07_21_12_27_43.mp3**    | [Consciousness](https://drive.google.com/file/d/1OrIJAvolFQnUhpWxxmRsofN9JMx37mpW)
 | **07/14/23** | 0h 40m 44s | **2023_07_14_17_56_03.mp3**    | [Indifference](https://drive.google.com/file/d/18CM1yV2jvOtrUJM65uTmqpQy0PkKa7vB)
