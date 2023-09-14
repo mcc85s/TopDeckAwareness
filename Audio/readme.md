@@ -7,10 +7,11 @@ Then people will understand my motivations a lot more clearly.<br>
 
 | Last Update       |
 |:------------------|
-| **08/15/23 1948** |
+| **09/13/23 2307** |
 
 | Date         | Length     | File                           | Name                                                                                                   |
 |:-------------|:-----------|:-------------------------------|:-------------------------------------------------------------------------------------------------------|
+| **09/13/23** | 0h 51m 18s | **2023_09_13_21_05_31.mp3**    | [Disillusionment](https://drive.google.com/file/d/1Mwa2JEuQyybznlORjywiWK3JqbOw2oA6) |
 | **08/15/23** | 1h 17m 30s | **2023_08_15_14_06_15.mp3**    | [Delta Zulu Echo Five Niner](https://drive.google.com/file/d/1vB3Eic1QZK1rxuM1Ukm9VA3Zf_-lCTSt)
 | **08/13/23** | 1h 15m 27s | **2023_08_13_12_07_05.mp3**    | [Consideration](https://drive.google.com/file/d/1G9LgcWLYDlwUdQsiD4GnKfb2fuWqIPyA)
 | **08/12/23** | 1h 14m 29s | **2023_08_12_12_17_42.mp3**    | [Performance Matters](https://drive.google.com/file/d/1G4NSEG_mwWXlr8cGmZvA2hpM4q_7KpKt)
