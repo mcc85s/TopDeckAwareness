@@ -11,9 +11,10 @@ Then people will understand my motivations a lot more clearly.<br>
 
 | Date         | Length     | File                           | Name                                                                                                   |
 |:-------------|:-----------|:-------------------------------|:-------------------------------------------------------------------------------------------------------|
-| **10/31/23** | 0h 52m 12s | **2023_10_31_19_21_40.mp3** | [Halloween](https://drive.google.com/file/d/1i9Q_7eZVkpugt8RoAq7SJSiOTxVB2wOM) |
-| **10/07/23** | 0h 42m 55s | **2023_10_07_21_19_30.mp3** | [Clarification](https://drive.google.com/file/d/1ZaZK83DoNyGEZheg4a2to743F8Ea2Eho) |
-| **09/13/23** | 0h 51m 18s | **2023_09_13_21_05_31.mp3**    | [Disillusionment](https://drive.google.com/file/d/1Mwa2JEuQyybznlORjywiWK3JqbOw2oA6) |
+| **11/11/23** | 1h 02m 33s | **2023_11_11_17_45_53.mp3**    | [Subject Matter](https://drive.google.com/file/d/1jPxi_eq4bSbkAYVQJpKqiEmK4i2UGEZw)
+| **10/31/23** | 0h 52m 12s | **2023_10_31_19_21_40.mp3**    | [Halloween](https://drive.google.com/file/d/1i9Q_7eZVkpugt8RoAq7SJSiOTxVB2wOM)
+| **10/07/23** | 0h 42m 55s | **2023_10_07_21_19_30.mp3**    | [Clarification](https://drive.google.com/file/d/1ZaZK83DoNyGEZheg4a2to743F8Ea2Eho)
+| **09/13/23** | 0h 51m 18s | **2023_09_13_21_05_31.mp3**    | [Disillusionment](https://drive.google.com/file/d/1Mwa2JEuQyybznlORjywiWK3JqbOw2oA6)
 | **08/15/23** | 1h 17m 30s | **2023_08_15_14_06_15.mp3**    | [Delta Zulu Echo Five Niner](https://drive.google.com/file/d/1vB3Eic1QZK1rxuM1Ukm9VA3Zf_-lCTSt)
 | **08/13/23** | 1h 15m 27s | **2023_08_13_12_07_05.mp3**    | [Consideration](https://drive.google.com/file/d/1G9LgcWLYDlwUdQsiD4GnKfb2fuWqIPyA)
 | **08/12/23** | 1h 14m 29s | **2023_08_12_12_17_42.mp3**    | [Performance Matters](https://drive.google.com/file/d/1G4NSEG_mwWXlr8cGmZvA2hpM4q_7KpKt)
