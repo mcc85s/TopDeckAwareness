@@ -7,12 +7,13 @@ Then people will understand my motivations a lot more clearly.<br>
 
 | Last Update       |
 |:------------------|
-| **12/09/23 0211** |
+| **12/12/23 2211** |
 
 | Date         | Length     | File                           | Name                                                                                                   |
 |:-------------|:-----------|:-------------------------------|:-------------------------------------------------------------------------------------------------------|
-| **12/09/23** | 1h 08m 24s | **2023_12_09_00_27_14.mp3** | [Nfrastructure](https://drive.google.com/file/d/1oG_kaHC6_CeiGTtY-CVp8BueC8nQ-xHA) |
-| **12/01/23** | 0h 56m 34s | **2023_12_01_23_04_57.mp3** | [Motivations](https://drive.google.com/file/d/1nFKZSVsVMQKZEl1j9RT17sqQrac7-1X8) |
+| **12/10/23** | 0h 36m 55s | **2023_12_10_22_38_53.mp3**    | [Funny Stuff](https://drive.google.com/file/d/12P17uxP5ZMFVhIO3kPHkZO8UeWO5_c1e)
+| **12/09/23** | 1h 08m 24s | **2023_12_09_00_27_14.mp3**    | [Nfrastructure](https://drive.google.com/file/d/1oG_kaHC6_CeiGTtY-CVp8BueC8nQ-xHA)
+| **12/01/23** | 0h 56m 34s | **2023_12_01_23_04_57.mp3**    | [Motivations](https://drive.google.com/file/d/1nFKZSVsVMQKZEl1j9RT17sqQrac7-1X8)
 | **11/11/23** | 1h 02m 33s | **2023_11_11_17_45_53.mp3**    | [Subject Matter](https://drive.google.com/file/d/1jPxi_eq4bSbkAYVQJpKqiEmK4i2UGEZw)
 | **10/31/23** | 0h 52m 12s | **2023_10_31_19_21_40.mp3**    | [Halloween](https://drive.google.com/file/d/1i9Q_7eZVkpugt8RoAq7SJSiOTxVB2wOM)
 | **10/07/23** | 0h 42m 55s | **2023_10_07_21_19_30.mp3**    | [Clarification](https://drive.google.com/file/d/1ZaZK83DoNyGEZheg4a2to743F8Ea2Eho)
