@@ -7,10 +7,11 @@ Then people will understand my motivations a lot more clearly.<br>
 
 | Last Update       |
 |:------------------|
-| **01/15/24 0105** |
+| **01/18/24 0125** |
 
 | Date         | Length     | File                           | Name                                                                                                   |
 |:-------------|:-----------|:-------------------------------|:-------------------------------------------------------------------------------------------------------|
+| **01/18/24** | 0h 09m 29s | **2024_01_18_01_08_42.mp3** | [Persistence](https://drive.google.com/file/d/1utnUxi1XDn2AmgOIKiPkS2Sg2NJi_3hO)
 | **01/11/24** | 1h 01m 29s | **2024_01_11_22_19_00.mp3** | [Accuracy](https://drive.google.com/file/d/1efqEbu3OuEaIIrIF_uJ_1xb_6qtrUX3I)
 | **01/10/24** | 0h 45m 47s | **2024_01_10_23_21_37.mp3** | [Anonymous](https://drive.google.com/file/d/1tDD7FUQWJ3cwEpGTRUmWJM5iKXQJcg2Y)
 | **01/04/24** | 0h 08m 53s | **2024_01_04_23_54_56.mp3** | [NewVmController](https://drive.google.com/file/d/1sPvJJoCaZfiBNKYa-z28mFZsAjAfhfbN)
